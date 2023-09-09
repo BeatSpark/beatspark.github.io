@@ -1,0 +1,33 @@
+h1 {
+	color: blueviolet;
+	font: Georgia;
+}
+
+h6 {
+	color: red;
+	font-style: italic;
+}
+
+body {
+	background: linear-gradient(-50rad, #a08af0a8, #17a8cc);
+	min-height: 100vh;
+	min-width: 100vh;
+}
+
+#Introduction {
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+#Description {
+	padding-left: 150px;
+	padding-right: 150px;
+	padding-top: 10px;
+}
+
+#footer {
+	padding-top: 700px;
+	padding-bottom: 10px;
+	position: relative;
+}
+
